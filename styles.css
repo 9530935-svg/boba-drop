@@ -1,0 +1,16 @@
+img {
+    width: 400px;
+}
+.heading {
+    text-align: center;
+    font-family: 'arial';
+}
+img {
+        width: 200px;
+}
+.other {
+    text-align: center;
+    font-family: 'arial';
+    background: azure;
+    color: purple;
+}
